@@ -1,11 +1,3 @@
 ## Oie eu sou a Thay Santos, designer e começando no mundo da programação!
 
 Veja meu Portfolio => https://thaysantos.art/
-
-#
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MonoThay/MonoTha/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MonoThay/MonoThay/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MonoThay/MonoTha/output/github-contribution-grid-snake.svg">
-</picture>
