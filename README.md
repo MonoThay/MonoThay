@@ -1,3 +1,3 @@
-## Oie eu sou a Thay Santos, designer e começando no mundo da programação!
+## Oie! :D
 
 Veja meu Portfolio => https://thaysantos.art/
